@@ -1,1 +1,1 @@
-https://github.com/username/slozhno-sosredotochitsya-ad
+https://github.com/mxtrzd33/slozhno-sosredotochitsya-ad.git
